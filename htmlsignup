@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>Placement_Registration.html</title></head>
+<body>
+<form>
+<input type ="radio" name ="Arun">Mr.
+<input type ="radio"name ="Arun">Mrs.
+<input type ="radio" name ="Arun">Ms.<br>
+
+Student ID:<input type ="text"placeholder="Student ID" name ="Arun"><br>
+First Name:<input type ="text"placeholder="First Name" name ="Pudari"><br>
+Last Name:<input type ="text"placeholder="Last Name" name ="Arun"><br>
+
+Username:<input type ="text"placeholder="Username" name ="Arun"><br>
+Password:<input type="password"placeholder="Password"name="Arun1669"><br>
+Address:<textarea rows="4" cols="33"></textarea><br>
+City:<input type ="text" name ="Arun"><br>
+State:<name ="State" value="state"><select>
+<option>Telangana</option>
+<option> Andhra pradesh</option>
+<option>Uttar pradesh</option>
+
+
+</select><br>
+Pincode:<input type="text"name="pin"><br>
+Upload photo:<input type="File"placeholder="Choose File"name="Photo"><br>
+Email:<input type="text"name ="Arun"><br>
+Mobile:<input type="text"name="Mobile" value="+91"><br>
+Language known<input type="checkbox" > English<br>
+             <input type="checkbox" > Telugu<br>
+             <input type="checkbox" > Hindi<br>
+
+
+<input type="submit" name ="signup"value="submit">
+</form>
+</body>
+</html>
